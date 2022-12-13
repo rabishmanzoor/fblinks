@@ -27,9 +27,7 @@ public class App
 	
 	// How to print all values of an array or list
     	
-  for (int i=0; i<Links.size()-1;i++) {
-	  System.out.println(Links.get(i).getAttribute("href"));
-  }
+
     	
     }
 }
